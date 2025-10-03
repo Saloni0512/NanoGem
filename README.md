@@ -13,3 +13,4 @@
 
 
 ## Demo
+Checkout the detailed app demo here: https://youtu.be/YLBeBqHuWaY
