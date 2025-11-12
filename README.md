@@ -6,7 +6,7 @@
 
 > NanoGem is an AI powered  nail art studio that brings the delightful and creative experience of nail art to your acreens.
 
-## Key Features
+## ⭐️ Key Features
 
 - AI-powered nail art 
   - Apply realistic nail art to an uploaded photo. The app transforms a user-supplied nail image into a generated design using prompt-driven image editing.
@@ -27,12 +27,13 @@
   - Save generated designs to a local gallery stored in localStorage. Duplicate prevention, deletion, and a modal gallery UI allow easy management of favorites.
 
 
-## Demo
+## 📺 Demo
 Checkout the detailed app demo here: https://youtu.be/YLBeBqHuWaY
 
-## Technologies Used
+## 🔗 Technologies Used
 - React + TypeScript and bundled with Vite.
 - Uses the latest image gen and editing NanoBanana model.
 - Image data is passed around as data URLs in-memory and persisted to localStorage for the gallery.
 
 
+🔹 Also checkout a short blog on this project:  [here](https://dev.to/saloni0512/nanogem-nail-art-studio-4enn)
